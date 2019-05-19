@@ -18,7 +18,7 @@
 # 3.Съществуват ли езици за програмиране или инструменти за разработка на допълнителни функционалности при управление или търговия на въпросната крипто валута
   - Използвани технологии: C#
   - Необходими инструменти за разработка - Visual Studio 2017, .NET framework 4.7, .NET Core SDK, Git
-  - За създаване на Smart contract: горните инструмети и neo compiler, NeoContractPluginhttps://docs.neo.org/en-us/index.html
+  - За създаване на Smart contract: горните инструмети и neo compiler, NeoContractPlugin https://docs.neo.org/en-us/index.html
   
 # 4.Предоставете линкове към мрежи за търговия или разработка на функционални пространства със съответната крипто валута
   - Може да се купи на: https://www.coinex.com, https://www.binance.com/en?ref=26502163
