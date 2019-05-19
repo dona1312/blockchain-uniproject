@@ -26,8 +26,8 @@
   - Може да се допринася към сорс кода на валутата, който е публикуван в гитхъб.https://github.com/neo-project
   
 #  5.Източници:
-https://neo.org/
-https://www.crypto-advice.com/blog/Kak-i-zashto-da-si-zakupite-NEO---kitayskiyat-Ethereum/
-https://onchain.bg/crypto/neo/
-https://transact.cash/bg/cryptocurrency/neo/
-https://blockgeeks.com/guides/neo-blockchain/
+- https://neo.org/
+- https://www.crypto-advice.com/blog/Kak-i-zashto-da-si-zakupite-NEO---kitayskiyat-Ethereum/
+- https://onchain.bg/crypto/neo/
+- https://transact.cash/bg/cryptocurrency/neo/
+- https://blockgeeks.com/guides/neo-blockchain/
