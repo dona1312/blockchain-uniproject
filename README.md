@@ -31,11 +31,16 @@
   - Използвани технологии: C#
   - Необходими инструменти за разработка - Visual Studio 2017, .NET framework 4.7, .NET Core SDK, Git
   - За създаване на Smart contract: горните инструмети и neo compiler, NeoContractPlugin https://docs.neo.org/en-us/index.html
+  - Налични са NEO workshops - материали за увод във валутата, начин на работа, архитектура, структура. Например:
+      - https://docs.neo.org/en-us/workshop/1_introduction_to_neo/README.html
+      - https://docs.neo.org/en-us/basic/consensus/consensus.html
+      - https://docs.neo.org/en-us/network/local-chain.html
+      - https://docs.neo.org/en-us/network/syncblocks.html
   
 # 4.Линкове към мрежи за търговия или разработка на функционални пространства със съответната крипто валута #
   - Може да се купи на: https://www.coinex.com, https://www.binance.com/en?ref=26502163
   - Може да се търгува на https://www.etoro.com/
-  - Може да се допринася към сорс кода на валутата, който е публикуван в гитхъб.https://github.com/neo-project
+  - Може да се допринася към сорс кода на валутата, който е публикуван в github .https://github.com/neo-project
   
 # 5. Портфейл - NEO Tracker wallet #
   - Линк - https://neotracker.io/
